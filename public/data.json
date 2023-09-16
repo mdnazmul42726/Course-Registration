@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/9q0dv1r/Rectangle-2.png",
+        "courseName": "Web Development Fundamentals",
+        "credit": 6,
+        "price": 40,
+        "details": "Learn the basics of web development, including HTML, CSS, and JavaScript."
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/SNLypHL/Rectangle-2-1.png",
+        "courseName": "Data Science Essentials",
+        "credit": 4,
+        "price": 30,
+        "details": "Explore the fundamentals of data science, including data analysis and machine learning."
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/NWsT2s0/Rectangle-2-2.png",
+        "courseName": "Mobile App Development",
+        "credit": 7,
+        "price": 20,
+        "details": "Build mobile apps for iOS and Android using React Native and Flutter."
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/QDpV7St/Rectangle-2-3.png",
+        "courseName": "Introduction to Machine Learning",
+        "credit": 5,
+        "price": 60,
+        "details": "Gain a foundational understanding of machine learning algorithms and techniques."
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/P6JGLc1/Rectangle-2-4.png",
+        "courseName": "Graphic Design Masterclass",
+        "credit": 6,
+        "price": 45,
+        "details": "Learn graphic design principles and create stunning visual content."
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/wgCMpsj/Rectangle-2-5.png",
+        "courseName": "Digital Marketing Strategy",
+        "credit": 3,
+        "price": 49,
+        "details": "Develop effective digital marketing strategies to promote businesses online."
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/qRg9L0B/Rectangle-2-6.png",
+        "courseName": "Python Programming for Beginners",
+        "credit": 2,
+        "price": 29,
+        "details": "Start your journey into programming with Python."
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/zFrdYtS/Rectangle-3.png",
+        "courseName": "Advanced JavaScript Techniques",
+        "credit": 3,
+        "price": 50,
+        "details": "Master advanced JavaScript concepts and modern web development."
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/DY9rv25/Rectangle-3-1.png",
+        "courseName": "Business Ethics and Leadership",
+        "credit": 2,
+        "price": 39,
+        "details": "Explore ethical leadership practices in the business world."
+    }
+]
